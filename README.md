@@ -18,6 +18,8 @@ clear**
  - **mood:** Toggle Between Optimist and Pessimist Mood.  (Pessimist will buy extra 
  if you have partial stacks, Optimist will never buy more than you want.)
  - **clear:** Clear the refill list completely.
+ 
+Note. you can also use the shortcut command **/fr** instead of **/freerefills**.
 
 ## Credits
 
