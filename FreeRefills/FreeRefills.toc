@@ -1,5 +1,6 @@
 ## Interface: 11000
-## Author: Kyahx
+## Author: Kyahx, fondlez
+## Version: 0.2
 ## Title: Free Refills |cff007fff -Ace-|r
 ## Notes: Automatic Refilling of User Defined Items |cffFA8072 by Kyahx|r
 ## DefaultState:
