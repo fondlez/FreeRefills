@@ -28,7 +28,7 @@ FreeRefillsLocals.CMD_OPTIONS = {
     },
   {
       option  = "mood",
-        desc  = "Toggle Between Optimist and Pessimest Mood.  (Pessimest will buy extra if you have partial stacks, Optimist will never buy more than you want.)",
+        desc  = "Toggle Between Optimist and Pessimist Mood.  (Pessimist will buy extra if you have partial stacks, Optimist will never buy more than you want.)",
         method  = "ToggleMood"
     },
   {
